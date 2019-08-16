@@ -10,7 +10,7 @@
     "url": "https://github.com/terorie"
   },
   "dependencies": {
-    "@nimiq/core": "^1.4.1",
+    "@nimiq/core": "^1.5.0",
     "base64-stream": "^1.0.0",
     "node-telegram-bot-api": "^0.30.0",
     "plotly": "^1.0.6",
